@@ -2,6 +2,8 @@
 
 Welcome to **SmartGear Shop**, a simple eCommerce website where users can browse and purchase various electronic gadgets. This project includes a homepage, product detail page, and basic styling to give users a visually appealing and interactive shopping experience.
 
+[Video Demo Link](https://drive.google.com/file/d/1yY-wjxGAmGqybKhWv8fAGPkj9nFeZq4b/view?usp=sharing)
+
 ## Features
 
 - **Homepage**: Displays a list of products with names, prices, descriptions, and a call-to-action button to view the products.
